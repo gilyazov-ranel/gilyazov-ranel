@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**gilyazov-ranel/gilyazov-ranel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3>
+    Всем привет, меня зовут Ранэль👋🏻
+  </h3>
+  <h4>
+    Стремлюсь:
+  </h4>
+  <li>
+    🔥Создавать удобные, понятные и главное нужные сервисы
+  </li>
+     <li>
+       🔍Изучать новое
+  </li>
+  <li>
+    💻Работать с опытными коллегами
+  </li>
+  <li>
+    ⌨Улучшать качество кода
+  </li>
+  
+</div>
