@@ -37,8 +37,8 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilyazov-ranel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gilyazov-ranel&hide=contribs&card_width=250&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ---
   
