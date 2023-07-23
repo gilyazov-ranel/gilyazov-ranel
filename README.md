@@ -54,7 +54,7 @@
 ---
   
 <div align="center">
-  <h3>Мои контакты:</h3>
+  <h5>📱Мои контакты:</h5>
   <a href="mailto:ranel.yes@yandex.ru">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbn9UDxVGnsnz2jvVb5Bbf2g4xlWo5VlGsOg&usqp=CAU" width="35px">
   </a> 
