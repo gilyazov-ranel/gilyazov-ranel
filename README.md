@@ -54,6 +54,10 @@
 ---
   
 <div align="center">
+  <h3>Мои контакты:</h3>
+  <a href="mailto:ranel.yes@yandex.ru">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbn9UDxVGnsnz2jvVb5Bbf2g4xlWo5VlGsOg&usqp=CAU" width="35px">
+  </a> 
    <a href="https://t.me/rallar" >
     <img src='https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png' width="35px"
   </a>
